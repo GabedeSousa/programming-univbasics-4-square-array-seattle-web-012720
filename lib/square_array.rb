@@ -2,9 +2,10 @@
   
   def square_array(numbers)
     numbers = [1,2,3]
-    numbers.each |i|
+    array.each |i|
       i ** 2
     end
+    
     
     
 
