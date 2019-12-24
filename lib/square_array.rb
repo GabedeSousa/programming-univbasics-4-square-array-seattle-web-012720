@@ -6,4 +6,5 @@
     while count < numbers.lenght do
       numbers.index ** 2 
     end
-    
+    square_array(numbers)
+end 
